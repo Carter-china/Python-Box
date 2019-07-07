@@ -1,4 +1,4 @@
 # python_box
 Let's study Python3 together!
 --------------------------------                     
-Carter（China）
+                       —— Carter（China）
