@@ -1,4 +1,4 @@
-# python_box
-Let's study Python3 together!
+# game_box
+The python3 games in this box.
 
               ———— Carter（China）
