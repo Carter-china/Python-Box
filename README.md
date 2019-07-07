@@ -1,2 +1,3 @@
 # python_box
-Let's go!
+Let's study together!
+Language: Chinese
