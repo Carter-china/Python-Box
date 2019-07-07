@@ -1,3 +1,3 @@
 # python_box
 Let's study together!
-Language: Chinese
+Note: This repository was created by a Chinese primary school student.
