@@ -224,9 +224,9 @@ def sxcg():
     if c == 'a':
         while True:
 
-            f = random.randint(1, 101)
+            f = random.randint(1, 100)
             f = str(f)
-            g = random.randint(1, 101)
+            g = random.randint(1, 100)
             g = str(g)
             h = input(f + '+' + g + '=?:')
             h = float(h)
@@ -278,9 +278,9 @@ def sxcg():
     elif c == 'b':
         while True:
 
-            f = random.randint(1, 101)
+            f = random.randint(1, 100)
             f = str(f)
-            g = random.randint(1, 101)
+            g = random.randint(1, 100)
             g = str(g)
             h = input(g + '-' + f + '=?:')
             h = float(h)
@@ -330,9 +330,9 @@ def sxcg():
     elif c == 'c':
         while True:
 
-            f = random.randint(1, 101)
+            f = random.randint(1, 100)
             f = str(f)
-            g = random.randint(1, 101)
+            g = random.randint(1, 100)
             g = str(g)
             h = input(g + '×' + f + '=?:')
             h = float(h)
