@@ -1,6 +1,7 @@
 import random
-i=0
+
 def jsq():
+    i=0
     print('\nHello!我是你的私人计算小助手（六代）\n!')
     print('注:输入次数时输入n退出\n')
     while True:
@@ -92,6 +93,7 @@ def jsq():
             print('输入无效\n')
 
 def jsd():
+
     class point():
         def __init__(self, x, y):
             self.x = x
@@ -439,6 +441,7 @@ def sxcg():
         print('输入无效')
 
 def qys():
+    i=0
     while True:
         c = []
         # d=0
@@ -458,11 +461,11 @@ def qys():
         print(c)
 
 def zbs():
-    
     c = 1
     d = []
     b = int(input('请输入数字:'))
     a = int(input('请输入个数:'))
+    i=0
     for i in range(a):
         e = c * b
         d.append(e)
