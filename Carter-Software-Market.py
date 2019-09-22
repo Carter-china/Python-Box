@@ -108,7 +108,7 @@ while True:
                     #'attachments': ['/Users/zyh/Documents/example.zip', '/root/1.jpg'],  # Absolute path will be better.
                 }
 
-                server = zmail.server('15842352280@163.com','snxsj8h')
+                server = zmail.server('15842352280@163.com','***')
 
                 server.send_mail('15842352280@163.com',mail)
                 server.send_mail(em,mail)
